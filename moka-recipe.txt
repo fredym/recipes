@@ -1,0 +1,9 @@
+Ingredients:
+ - 1 teaspoon liquid chocolate
+ - 1 cup milk
+ - 1 expresso
+
+Directions:
+  1. In a coffe cup, stir the chocolate.
+  2. Stir the cup of milk and mix.
+  3. Stir the expresso as soon as it comes out of the expresso machine.
